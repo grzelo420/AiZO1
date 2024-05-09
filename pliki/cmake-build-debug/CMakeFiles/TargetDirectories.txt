@@ -1,0 +1,3 @@
+C:/Users/Jakub Grzegocki/Downloads/pliki (2)/pliki/cmake-build-debug/CMakeFiles/SDIZO.dir
+C:/Users/Jakub Grzegocki/Downloads/pliki (2)/pliki/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jakub Grzegocki/Downloads/pliki (2)/pliki/cmake-build-debug/CMakeFiles/rebuild_cache.dir
